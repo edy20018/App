@@ -1,0 +1,15 @@
+# ninja log v5
+1	1274	6719224368415725	app_autogen/timestamp	a28cde22dc81aff
+1	1274	6719224368415725	app_autogen/mocs_compilation.cpp	a28cde22dc81aff
+1	1274	6719224368415725	D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/app_autogen/timestamp	a28cde22dc81aff
+1	1274	6719224368415725	D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/app_autogen/mocs_compilation.cpp	a28cde22dc81aff
+1274	1468	6719224371593645	app_autogen/EWIEGA46WW/qrc_background.cpp	b735dff5dc3f7935
+1274	1468	6719224371593645	D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/app_autogen/EWIEGA46WW/qrc_background.cpp	b735dff5dc3f7935
+1503	2158	6719224377786599	CMakeFiles/app.dir/app_autogen/EWIEGA46WW/qrc_background.cpp.obj	573a8d0c3b8a8dbe
+1468	3833	6719224394966274	CMakeFiles/app.dir/app_autogen/mocs_compilation.cpp.obj	a70a4a1073576994
+1488	4170	6719224398212677	CMakeFiles/app.dir/main.cpp.obj	1ea21d3cd34cb676
+1500	4372	6719224400666281	CMakeFiles/app.dir/old_versions_tab.cpp.obj	1f00df755237d8ed
+1509	4682	6719224403744167	CMakeFiles/app.dir/after_login.cpp.obj	12ffc45676095b24
+1491	4890	6719224405718856	CMakeFiles/app.dir/mainwindow.cpp.obj	f54d4f46b79ca266
+1496	4894	6719224405878433	CMakeFiles/app.dir/fereastra_signup.cpp.obj	be549213665011f6
+4894	5576	6719224412647165	app.exe	f8b5a4bb51f68ea5

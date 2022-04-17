@@ -1,0 +1,5 @@
+D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/app.dir
+D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/app_autogen_timestamp_deps.dir
+D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/app_autogen.dir

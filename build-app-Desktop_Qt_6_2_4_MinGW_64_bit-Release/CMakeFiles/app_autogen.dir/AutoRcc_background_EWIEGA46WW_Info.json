@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/app_autogen",
+	"CMAKE_BINARY_DIR" : "D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/app_login/app",
+	"CMAKE_SOURCE_DIR" : "D:/app_login/app",
+	"INCLUDE_DIR" : "D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/app_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/app_login/app/8dab2ccfd0d3573d36a2764357b3d467.jpg",
+		"D:/app_login/app/istockphoto-1352152504-612x612.jpg"
+	],
+	"LOCK_FILE" : "D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/app_autogen.dir/AutoRcc_background_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "background" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_background.cpp",
+	"RCC_EXECUTABLE" : "D:/QT/6.2.4/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/app_login/build-app-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/app_autogen.dir/AutoRcc_background_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/app_login/app/background.qrc",
+	"VERBOSITY" : 0
+}
